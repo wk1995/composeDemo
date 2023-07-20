@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_compose_text">ComposeTextActivity</string>
+    <string name="title_activity_compose_text_field">ComposeTextFieldActivity</string>
+    <string name="title_activity_compose_button">ComposeButtonActivity</string>
+    <string name="title_activity_compose_image">ComposeImageActivity</string>
+    <string name="title_activity_compose_box">ComposeBoxActivity</string>
+    <string name="title_activity_compose_column">ComposeColumnActivity</string>
+    <string name="title_activity_compose_row">ComposeRowActivity</string>
+    <string name="title_activity_compose_surface">ComposeSurfaceActivity</string>
+    <string name="title_activity_compose_card">ComposeCardActivity</string>
+</resources>
